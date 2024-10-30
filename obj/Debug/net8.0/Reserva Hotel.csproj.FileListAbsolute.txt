@@ -1,0 +1,14 @@
+C:\Users\ayuta\OneDrive\Área de Trabalho\certificado DIO\Projetos C#\Reserva Hotel\bin\Debug\net8.0\Reserva Hotel.exe
+C:\Users\ayuta\OneDrive\Área de Trabalho\certificado DIO\Projetos C#\Reserva Hotel\bin\Debug\net8.0\Reserva Hotel.deps.json
+C:\Users\ayuta\OneDrive\Área de Trabalho\certificado DIO\Projetos C#\Reserva Hotel\bin\Debug\net8.0\Reserva Hotel.runtimeconfig.json
+C:\Users\ayuta\OneDrive\Área de Trabalho\certificado DIO\Projetos C#\Reserva Hotel\bin\Debug\net8.0\Reserva Hotel.dll
+C:\Users\ayuta\OneDrive\Área de Trabalho\certificado DIO\Projetos C#\Reserva Hotel\bin\Debug\net8.0\Reserva Hotel.pdb
+C:\Users\ayuta\OneDrive\Área de Trabalho\certificado DIO\Projetos C#\Reserva Hotel\obj\Debug\net8.0\Reserva Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayuta\OneDrive\Área de Trabalho\certificado DIO\Projetos C#\Reserva Hotel\obj\Debug\net8.0\Reserva Hotel.AssemblyInfoInputs.cache
+C:\Users\ayuta\OneDrive\Área de Trabalho\certificado DIO\Projetos C#\Reserva Hotel\obj\Debug\net8.0\Reserva Hotel.AssemblyInfo.cs
+C:\Users\ayuta\OneDrive\Área de Trabalho\certificado DIO\Projetos C#\Reserva Hotel\obj\Debug\net8.0\Reserva Hotel.csproj.CoreCompileInputs.cache
+C:\Users\ayuta\OneDrive\Área de Trabalho\certificado DIO\Projetos C#\Reserva Hotel\obj\Debug\net8.0\Reserva Hotel.dll
+C:\Users\ayuta\OneDrive\Área de Trabalho\certificado DIO\Projetos C#\Reserva Hotel\obj\Debug\net8.0\refint\Reserva Hotel.dll
+C:\Users\ayuta\OneDrive\Área de Trabalho\certificado DIO\Projetos C#\Reserva Hotel\obj\Debug\net8.0\Reserva Hotel.pdb
+C:\Users\ayuta\OneDrive\Área de Trabalho\certificado DIO\Projetos C#\Reserva Hotel\obj\Debug\net8.0\Reserva Hotel.genruntimeconfig.cache
+C:\Users\ayuta\OneDrive\Área de Trabalho\certificado DIO\Projetos C#\Reserva Hotel\obj\Debug\net8.0\ref\Reserva Hotel.dll
